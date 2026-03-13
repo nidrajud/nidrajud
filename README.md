@@ -4,8 +4,6 @@
 🎓 Master's Degree in Supply Chain Engineering  
 🎓 RNCP Level 7 Certified Data Science Expert
 
-### coding with shrimp energy 🦐
-
 ![](https://komarev.com/ghpvc/?username=nidrajud&color=blue)
 
 <img src="./cute-shrimp.svg" width="720" alt="Cute animated shrimp">
