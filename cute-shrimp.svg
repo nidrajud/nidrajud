@@ -34,11 +34,8 @@
 
   <!-- big ascii shrimp -->
   <text x="68" y="198" fill="#22c55e" font-size="17" font-family="monospace" filter="url(#softGlow)">
-    <tspan x="68" dy="0">          __</tspan>
-    <tspan x="68" dy="18">      ___/o )</tspan>
-    <tspan x="68" dy="18">  ___/  _  /</tspan>
-    <tspan x="68" dy="18"> /___,__/ /==&gt;  commit commit commit</tspan>
-    <tspan x="68" dy="18">     /___/</tspan>
+  ==&gt;  commit commit commit</tspan>
+
   </text>
 
   <!-- right side cute vector shrimp -->
