@@ -6,3 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nidrajud&color=blue)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-USERNAME/main/unclaw-animated.svg" alt="Unclaw animated logo" />
+</p>
