@@ -6,4 +6,3 @@
 
 ![](https://komarev.com/ghpvc/?username=nidrajud&color=blue)
 
-<img src="./cute-shrimp.svg" width="720" alt="Cute animated shrimp">
